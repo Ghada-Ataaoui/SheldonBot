@@ -14,7 +14,7 @@ This project demonstrates how to build a chatbot that emulates the personality o
 
 To run this project, you'll need:
 
-- **Google Colab:** The project is designed to be run in a Google Colab environment.
+- **Google Colab:** The project is designed to be run in a Google Colab or Kaggle environment.
 - **Libraries:** Install the necessary libraries using `pip install transformers kagglehub`.
 - **Kaggle API Key:** Download your Kaggle API key (`kaggle.json`) and upload it to the Colab environment.
 - **Dataset:** Download the "Big Bang Theory Dialogues" dataset from Kaggle.
